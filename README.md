@@ -37,11 +37,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m .
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: *****.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and leetcode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashchaudharyx20/)
 
@@ -63,6 +63,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yashchaudhary98"><img src="https://github-readme-stats.vercel.app/api?username=yashchaudhary98&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="yashchaudhary98's GitHub stats" /></a>
+
+<a href="http://www.github.com/yashchaudhary98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaudhary98&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/yashchaudhary98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchaudhary98&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
