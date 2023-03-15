@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://https://giphy.com/gifs/hello-hi-good-morning-888R35MJTmDxQfRzfS/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy" width="600" height="300"/>
 </div>
 
 ---
