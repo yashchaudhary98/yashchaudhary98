@@ -15,10 +15,10 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-yashchaudhary98&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div class="center">
+<div>
   <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+    <centre>Hey there
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/></centre>
   </h1>
 </div>
 
