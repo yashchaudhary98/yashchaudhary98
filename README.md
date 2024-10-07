@@ -8,14 +8,22 @@
 
 ---
 
-### 📫 How to Reach Me
-- **LinkedIn:** [Yash Chaudhary](https://www.linkedin.com/in/yashchaudharyx20/)
-- **Email:** [yashchaudharyx20@gmail.com](mailto:yashchaudharyx20@gmail.com)
-- **Discord:** [anonyjat](https://discord.com/channels/@me)
+## 📫 How to Reach Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/yashchaudharyx20/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:yashchaudharyx20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
 
 ---
 
-### 💻 About Me
+## 💻 About Me
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I love tackling complex challenges and collaborating with teams to deliver exceptional user experiences.
 
 - 🚀 Currently learning advanced Laravel and cloud technologies.
@@ -24,8 +32,8 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ---
 
-### 🛠️ Languages and Tools
-<div>
+## 🛠️ Languages and Tools
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
@@ -39,7 +47,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 <div align="center">
   <a href="http://www.github.com/yashchaudhary98">
     <img src="https://github-readme-stats.vercel.app/api?username=yashchaudhary98&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true" alt="yashchaudhary98's GitHub stats" />
@@ -54,5 +62,8 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ---
 
-### 🤝 Let's Collaborate!
+## 🤝 Let's Collaborate!
 Feel free to explore my repositories and connect with me! I’m always open to new opportunities and collaborations.
+
+---
+
