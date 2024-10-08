@@ -19,6 +19,9 @@
   <a href="https://discord.com/channels/@me">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://leetcode.com/u/eUdABPYq02/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
 </div>
 
 ---
@@ -66,4 +69,3 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 Feel free to explore my repositories and connect with me! I’m always open to new opportunities and collaborations.
 
 ---
-
